@@ -1,0 +1,9 @@
+Buildfile: C:\Users\Andy\Documents\Mendix\GeSoc-main\deployment\build_core.xml
+
+clean:
+   [delete] Deleting directory C:\Users\Andy\Documents\Mendix\GeSoc-main\deployment\model
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+

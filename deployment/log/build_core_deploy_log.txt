@@ -1,0 +1,9 @@
+Buildfile: C:\Users\Andy\Documents\Mendix\GeSoc-main\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 32 files to C:\Users\Andy\Documents\Mendix\GeSoc-main\deployment
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
